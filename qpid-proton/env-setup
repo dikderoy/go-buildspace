@@ -1,0 +1,1 @@
+export GO_IMAGE="dikderoy/go-buildspace-qpid-proton"
